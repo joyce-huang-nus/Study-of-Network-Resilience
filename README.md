@@ -5,6 +5,7 @@ Error and attack tolerance of complex networks
 
 
 Reference:
+
 [1] Error and attack tolerance of complex networks - R´eka Albert, Hawoong Jeong, Albert-L´aszl´o Barab´asi, Department of Physics, University of Notre Dame, Notre Dame, IN 46556
 
 [2] Network Analysis of Pronto Cycle Network, SHASHI KANT: https://www.kaggle.com/skantbksc/network-analysis-of-pronto-cycle-network
